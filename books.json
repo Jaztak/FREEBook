@@ -27,5 +27,33 @@
 "Metamorphosis": {
 "Metamorphosis": "https://www.gutenberg.org/files/5200/5200-h/5200-h.htm"
 }
+},
+"genres": {
+"Fantasy/Sci-Fi": [
+"The Maze Runner",
+"The War of the Worlds",
+"Twenty Thousand Leagues under the Sea",
+"Metamorphosis"
+],
+"Dystopian": [
+"The Maze Runner",
+"The War of the Worlds"
+],
+"Historical": [
+"A Tale of Two Cities"
+],
+"Romance": [
+"Pride and Prejudice"
+],
+"Old Books": [
+"Pride and Prejudice",
+"A Tale of Two Cities",
+"The War of the Worlds",
+"Twenty Thousand Leagues under the Sea",
+"William Shakespeares Complete Works"
+],
+"Short Stories": [
+"Metamorphosis"
+]
 }
 }
