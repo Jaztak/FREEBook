@@ -1,4 +1,5 @@
 {
+    "urls":{
 "The Maze Runner": {
 "The Maze Runner": "https://mskandres.weebly.com/uploads/1/4/2/1/14213852/the_maze_runner_-_full_novel_pdf.pdf",
 "The Scorch Trials": "https://spensabayalibrary.files.wordpress.com/2016/04/the-scorch-trials-james-dashner.pdf",
@@ -25,5 +26,6 @@
 },
 "Metamorphosis": {
 "Metamorphosis": "https://www.gutenberg.org/files/5200/5200-h/5200-h.htm"
+}
 }
 }
